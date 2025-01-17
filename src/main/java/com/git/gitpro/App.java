@@ -14,5 +14,6 @@ public class App
         System.out.println( "更新3" );
         System.out.println( "创建分支develop" );
         System.out.println( "主干添加" );
+        System.out.println( "分支添加" );
     }
 }
